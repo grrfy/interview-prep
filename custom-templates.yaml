@@ -1,0 +1,2 @@
+spring-boot:
+    hello-text-template: What's up, %s
